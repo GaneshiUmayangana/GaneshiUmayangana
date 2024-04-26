@@ -15,7 +15,7 @@ I thrive on exploring datasets, crafting engaging visualizations, and utilizing 
 To handle various data difficulties, I'm currently delving into the field of machine learning and using methods like regression, classification, clustering, and neural networks.
 And also I try to make accurate models for datasets using classification and prediction.
 
-** ⚡ Fun fact: **
+**⚡ Fun fact:**
 Dancing is my passion. It has taught me the rhythm of life💃. At the moment I am chasing my dreams, with the rhythm. 🌈
 
 **📚 Education:**

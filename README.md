@@ -3,7 +3,7 @@
 
 **Hi there! 👋 I'm Ganeshi Umayangana** 
 
-✨ I'm an undergraduate student pursuing a degree in Industrial Statistics with a passion for diving deep into data and uncovering meaningful insights. 
+✨ I'm an undergraduate student pursuing a degree Bsc.(Hons) in Industrial Statistics(Reading) with a passion for diving deep into data and uncovering meaningful insights. 
 My journey in the realm of data science has been an exciting exploration of the intersection between statistics, programming, and real-world applications. ✨ 
 
 
